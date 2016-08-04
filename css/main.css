@@ -1,0 +1,30 @@
+/* Inserta tu código aqui */
+h1{
+	font-size: 25px;
+	font-family: helvetica;}
+hr{
+	color: black;
+	size: 100px;
+	width: 120px;
+	align: left;
+	margin: 0%;
+	margin-bottom: 10px;
+}
+
+div{
+	display: inline-block;
+	position: relative;
+	left: 2px;
+	margin: 2px;
+	top: 5px;}
+p{
+	position: absolute;
+	padding-left: 70px;
+	padding-top: 170px;
+	left: 25px;
+	color: white;
+	font-family: helvetica;
+	font-size: 12px;}
+
+body{
+	background: url(http://alfalfastudio.com/wp-content/uploads/2014/05/4c761f94005699ee-COVER.jpg);}
